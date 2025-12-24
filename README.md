@@ -43,7 +43,7 @@ bin/interactions.sh hash://md5/838ede23f4b8c6e8b7d692b61e954a60 \
  | tee interactions.tsv
 ```
 
-the first record (a coyote (_Canis latrans_) eating a bunny (_Lepus californicus_ according to [Eichenwalt et al. 2024 doi:10.1002/ece3.10930](https://doi.org/10.1002/ece3.10930)) of which is shown below in xtab format - 
+the first record (a coyote (_Canis latrans_) eating a bunny (_Lepus californicus_) according to [Eichenwalt et al. 2024 doi:10.1002/ece3.10930](https://doi.org/10.1002/ece3.10930)) of which is shown below in xtab format - 
 
 ```
 argumentTypeId                         https://en.wiktionary.org/wiki/support
