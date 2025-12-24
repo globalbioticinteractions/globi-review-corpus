@@ -144,7 +144,7 @@ and store them locally in a "data" folder. After this completes, subsequent data
 
 ## Review Index
 
-The following table represents a selection of the GloBI data reviews seen in https://zenodo.org/community/globi-review . For simplicity, only the dataset ids and their associated content ids are listened.
+The following table represents a selection of the GloBI data reviews seen in https://zenodo.org/community/globi-review and also available in [datasets.tsv](./datasets.tsv) . For simplicity, only the dataset ids and their associated content ids are listened. Note that, the corpus of reviewed datasets can be uniquely identified using the md5 hash of the datasets.tsv file (i.e., hash://md5/c033a6d8bf84b0e33a716eb3e45e7379 or hash://sha256/42b731d69cef1f9e63628e00170f321bc5ff13e62c824554a85d3a2cf011267c). So, the ```datasets.tsv``` file functions as a bill of material of the corpus of reviewed datasets because it contains a list of tha all reviewed datasets by the unique hash of their individual individual bill of materials. 
 
 | lsid | version |
 | --- | --- |
