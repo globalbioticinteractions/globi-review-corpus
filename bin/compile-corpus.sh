@@ -2,6 +2,8 @@
 #
 # compiles corpus by resolving resources and generating data products interactions.tsv.gz, review.tsv.gz and names.tsv.gz 
 
+set -x
+
 SCRIPT_DIR=$(dirname $0)
 cat "${SCRIPT_DIR}/../datasets.tsv" \
  | xargs -L1 bash "./${SCRIPT_DIR}/interactions.s"h \
