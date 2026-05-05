@@ -15,12 +15,10 @@ set -x
 SCRIPT_DIR=$(dirname $0)
 DATA_DIR="${SCRIPT_DIR}/../data"
 
-ZENODO_ENDPOINT_URL=${1:-https://zenodo.org/}
+ZENODO_ENDPOINT_URL=${1:-https://zenodo.org}
 ZENODO_COMMUNITY=${2:-globi-review}
 
-DATASETS_ID=$(preston track --data-dir "${DATA_DIR}" \
-  --algo md5 \ 
-  https://depot.globalbioticinteractions.org/snapshot/target/data/tsv/datasets.tsv \
+DATASETS_ID=$(preston track --data-dir "${DATA_DIR}" --algo md5 https://depot.globalbioticinteractions.org/snapshot/target/data/tsv/datasets.tsv \
   | grep hasVersion \
   | tail -1 \
   | grep -Eo "hash://md5/[a-f0-9]{32}")
