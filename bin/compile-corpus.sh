@@ -7,11 +7,12 @@ set -x
 SCRIPT_DIR=$(dirname $0)
 
 compile() {
+ STEP=$1
  cat "${SCRIPT_DIR}/../datasets.tsv" \
  | cut -f2 \
- | xargs -L1 bash "./${SCRIPT_DIR}/$1.sh" \
+ | xargs -L1 bash "./${SCRIPT_DIR}/${STEP}.sh" \
  | gzip \
- > "${SCRIPT_DIR}/../zenodo/$1.tsv.gz"
+ > "${SCRIPT_DIR}/../zenodo/${STEP}.tsv.gz"
 }
 
 compile interactions
