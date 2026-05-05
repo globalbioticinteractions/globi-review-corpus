@@ -38,7 +38,7 @@ preston head --data-dir "${DATA_DIR}" --algo md5 \
 preston head --data-dir "${DATA_DIR}" --algo md5 \
  | grep hasVersion \
  | grep zenodo \
- | grep -Ff ${SCRIPT_DIR}/../lsid-included.txt \
+ | grep -Ff ${SCRIPT_DIR}/../datasets-selected.txt \
  | preston cat \
  | jq -c '.hits.hits[].metadata.alternate_identifiers | { lsid: .[1].identifier, version: .[0].identifier }' \
  | sort \
