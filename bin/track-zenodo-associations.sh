@@ -33,7 +33,8 @@ preston track --data-dir "${DATA_DIR}" \
 preston head --data-dir "${DATA_DIR}" --algo md5 \
  > "${DATA_DIR}/HEAD"
 
-preston head --data-dir "${DATA_DIR}" --algo md5 \
+cat "${DATA_DIR}/HEAD" \
+ | preston cat --data-dir "${DATA_DIR}" --algo md5 \
  | grep hasVersion \
  | grep zenodo \
  | grep -Ff ${SCRIPT_DIR}/../datasets-selected.txt \
