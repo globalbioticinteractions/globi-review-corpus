@@ -29,7 +29,7 @@ preston track --data-dir "${DATA_DIR}" \
  --algo md5 \
  -f <(preston cat --data-dir "${DATA_DIR}" "$DATASETS_ID" \
  | tail -n+2 \
- | sed 's+^+urn:lsid:globalbioticinteractions.org:dataset:+g' \
+ | sed -E 's/^([^:]+)$/urn:lsid:globalbioticinteractions.org:dataset:\1/g' \
  | xargs -I{} echo "${ZENODO_ENDPOINT_URL}/api/communities/${ZENODO_COMMUNITY}/records?q=%22{}%22&l=list&limit=1")
 
 preston head --data-dir "${DATA_DIR}" --algo md5 \
