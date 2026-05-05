@@ -5,17 +5,15 @@
 set -x
 
 SCRIPT_DIR=$(dirname $0)
-cat "${SCRIPT_DIR}/../datasets.tsv" \
- | xargs -L1 bash "./${SCRIPT_DIR}/interactions.s"h \
- | gzip \
- > "${SCRIPT_DIR}/../zenodo/interactions.tsv.gz"
 
-cat "${SCRIPT_DIR}/../datasets.tsv" \
- | xargs -L1 bash "./${SCRIPT_DIR}/review.sh" \
+compile() {
+ cat "${SCRIPT_DIR}/../datasets.tsv" \
+ | cut -f2 \
+ | xargs -L1 bash "./${SCRIPT_DIR}/$1.sh" \
  | gzip \
- > "${SCRIPT_DIR}/../zenodo/interactions.tsv.gz"
+ > "${SCRIPT_DIR}/../zenodo/$1.tsv.gz"
+}
 
-cat "${SCRIPT_DIR}/../datasets.tsv" \
- | xargs -L1 bash "./${SCRIPT_DIR}/names.sh" \
- | gzip \
- > "${SCRIPT_DIR}/../zenodo/interactions.tsv.gz"
+compile interactions
+compile review
+compile names
