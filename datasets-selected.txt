@@ -1,3 +1,14 @@
+urn:lsid:checklistbank.org:dataset:1049
+urn:lsid:checklistbank.org:dataset:1061
+urn:lsid:checklistbank.org:dataset:1133
+urn:lsid:checklistbank.org:dataset:1166
+urn:lsid:checklistbank.org:dataset:1199
+urn:lsid:checklistbank.org:dataset:124661
+urn:lsid:checklistbank.org:dataset:2017
+urn:lsid:checklistbank.org:dataset:2207
+urn:lsid:checklistbank.org:dataset:2317
+urn:lsid:checklistbank.org:dataset:2362
+urn:lsid:checklistbank.org:dataset:265709
 urn:lsid:globalbioticinteractions.org:dataset:aeiche01/MojaveFoodWeb
 urn:lsid:globalbioticinteractions.org:dataset:AgentschapPlantentuinMeise/ashForestInteractions
 urn:lsid:globalbioticinteractions.org:dataset:arw36/EcoPics_Interactions
@@ -48,6 +59,7 @@ urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/BCI_Seed_
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/bco-dmo
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/becker2020
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/beefunc
+urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/bees-of-ireland
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/bell
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/bello2017
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/bergamo2020
@@ -67,6 +79,7 @@ urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/calvalhei
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/camargo-sanabria2025
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/caps-pest-lists
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/carril2018
+urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/carvajal-quintero-2026
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/carvalheiro2023
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/cas-ent
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/Catalogue-of-Afrotropical-Bees
@@ -113,7 +126,6 @@ urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/fungaltra
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/gandhi2009
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/gemina
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/globalamfungi
-urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/globalbioticinteractions-darkcides
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/globalfungi
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/global-mammal-parasite-database
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/global-primate-parasite-database
@@ -124,6 +136,7 @@ urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/gray2015
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/graystock2020
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/gryseels2020
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/guzman2022
+urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/hafer-hahmann-2026
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/hafner
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/hale2024
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/hechinger2011
@@ -151,6 +164,7 @@ urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/ku-semc
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/lacm-lacmec
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/lamanna2020
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/lee2021
+urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/life4pollinators
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/life-watch-greece
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/light2019
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/limbu2025
@@ -164,9 +178,9 @@ urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/maps
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/mcz
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/menares2025-flowervisitation
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/menares2025-herbivory
+urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/mendes-diniz-2025
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/minckly-san-bernardino-valley-2000-2011
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/min-umsp
-urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/MojaveFoodWeb
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/mollentze2019
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/mouritsen2011
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/mpabi
@@ -234,6 +248,7 @@ urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/spire
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/squamatabase
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/strona
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/strong2014
+urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/syrphids-of-ireland
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/szentivanyi2019
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/szoboszlai2015
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/tamuic-ent
@@ -271,6 +286,7 @@ urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/vertnet
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/virion
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/virjendb
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/virus-host-db
+urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/wad
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/wardeh2015
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/wardeh2021
 urn:lsid:globalbioticinteractions.org:dataset:globalbioticinteractions/web-of-life
@@ -293,7 +309,7 @@ urn:lsid:globalbioticinteractions.org:dataset:GoMexSI/simons
 urn:lsid:globalbioticinteractions.org:dataset:GoMexSI/wrast
 urn:lsid:globalbioticinteractions.org:dataset:holmesjtg/okaloosa-county-coastal-uplands
 urn:lsid:globalbioticinteractions.org:dataset:hurlbertlab/dietdatabase
-urn:lsid:globalbioticinteractions.org:dataset:ibartomeus/OBservData
+urn:lsid:globalbioticinteractions.org:dataset:ibartomeus/CropPol
 urn:lsid:globalbioticinteractions.org:dataset:IracyMaia/Database-for-species-interation
 urn:lsid:globalbioticinteractions.org:dataset:ischnura/vespa-velutina-interactions
 urn:lsid:globalbioticinteractions.org:dataset:jeremy-cohen/tmh-across-systems
@@ -301,25 +317,17 @@ urn:lsid:globalbioticinteractions.org:dataset:jhammock/beaverfeast
 urn:lsid:globalbioticinteractions.org:dataset:jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
 urn:lsid:globalbioticinteractions.org:dataset:jhammock/Layman-and-Allgeier-Lionfish
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/animal-disease
-urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/bat1k-talk-2024-10-27
-urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/BeeFunc1.0DataPaper
-urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/caradonna2020
-urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/database
-urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/EcoPics_Interactions
-urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/EDWIP
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/geosymbio
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/Gippet2023_GiantLandSnails
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/JLewis_GoMexSi
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/Lice
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/overson_2023
-urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/paleo-interactions-test
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/PIDA
-urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/Procambarus-acutus
-urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/random-forests-for-predicting-predator-prey-interactions-in-terrestrial-vertebrates
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/SternerLab-MammalVirusData
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/taxonomy-darwin-core
 urn:lsid:globalbioticinteractions.org:dataset:jhpoelen/uredinales-belgium-checklist
 urn:lsid:globalbioticinteractions.org:dataset:JohnLlewelyn/random-forests-for-predicting-predator-prey-interactions-in-terrestrial-vertebrates
+urn:lsid:globalbioticinteractions.org:dataset:JordanSowards/SternerLab-MammalVirusData-Jordan
 urn:lsid:globalbioticinteractions.org:dataset:JoseBSL/EuPPollNet
 urn:lsid:globalbioticinteractions.org:dataset:KatjaSchulz/dinosaur-biotic-interactions
 urn:lsid:globalbioticinteractions.org:dataset:kbseah/ppsdb-globi-export
@@ -328,7 +336,6 @@ urn:lsid:globalbioticinteractions.org:dataset:LauraAbr/Jumping-Worm
 urn:lsid:globalbioticinteractions.org:dataset:LauraAbr/Procambarus-acutus
 urn:lsid:globalbioticinteractions.org:dataset:liampshaw/Pathogen-host-range
 urn:lsid:globalbioticinteractions.org:dataset:mammalbase/database
-urn:lsid:globalbioticinteractions.org:dataset:ManuelRuizAravena/Cohen_database_pathogens
 urn:lsid:globalbioticinteractions.org:dataset:MariaFaticov/Insetbugs
 urn:lsid:globalbioticinteractions.org:dataset:mdrishti/pushPullIntxn
 urn:lsid:globalbioticinteractions.org:dataset:millerse/Adams-et-al.-2016
@@ -414,7 +421,6 @@ urn:lsid:globalbioticinteractions.org:dataset:seltmann/ParasiteTracker-Globi
 urn:lsid:globalbioticinteractions.org:dataset:seltmann/taxonomy-darwin-core
 urn:lsid:globalbioticinteractions.org:dataset:seltmann/vampire-moth-globi
 urn:lsid:globalbioticinteractions.org:dataset:seltmann/vampire-moths-and-their-fruit-piercing-relatives
-urn:lsid:globalbioticinteractions.org:dataset:ShirNehoray/EuPPollNet
 urn:lsid:globalbioticinteractions.org:dataset:SimoneLioy/Vespa-velutina-interactions
 urn:lsid:globalbioticinteractions.org:dataset:standardgalactic/tmh-across-systems
 urn:lsid:globalbioticinteractions.org:dataset:SternerLab/sterner2023
